@@ -1,0 +1,1 @@
+# Day 33-50: Operational best practices for Kubernetes
